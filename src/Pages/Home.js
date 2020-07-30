@@ -13,7 +13,7 @@ function Home() {
       <Container>
         <Row className="my-4">
           <Col className="text-center animate__animated animate__fadeIn">
-            <h1>Attention is hard to capture.</h1>
+            <h1>Good stories deserve</h1>
           </Col>
         </Row>
         <Row>
